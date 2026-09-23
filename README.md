@@ -1,6 +1,6 @@
 # Rushikesh Online Shopper Purchase Intention Analysis and AI Prediction
 
-## IBM SkillsBuild Data Analytics with AI Academic Internship
+## IBM SkillsBuild Data Analytics with AI
 
 ### 1. Project overview
 This project analyzes online shopping-session behavior and builds a machine-learning model to predict whether a session is likely to end in a purchase.
